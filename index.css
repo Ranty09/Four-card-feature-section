@@ -34,7 +34,7 @@ main{
   font-weight: 600;
 }
   .description {
-    padding: 0 29%;
+    padding: 0 32%;
     text-align: center;
     margin-bottom: 60px;
   }
@@ -163,6 +163,7 @@ section img{
  .attribution { font-size: 14px; text-align: center; }
 
 .attribution a { color: hsl(228, 45%, 44%); }
+
 
 
 
